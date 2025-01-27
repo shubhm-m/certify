@@ -6,7 +6,7 @@
   "id": "did:web:shubhm-m.github.io:certify:test",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mks29b7Frv6DcSM9inmi1xYFutMXaCnhVumPAWzjwQabZ6",
+      "publicKeyMultibase": "z6MkmgXQZoWucUdKPFchumbjnBXKL2pbJrLVj1ck6np5n6Jc",
       "controller": "did:web:shubhm-m.github.io:certify:test",
       "id": "did:web:shubhm-m.github.io:certify:test#key-0",
       "type": "Ed25519VerificationKey2020",
