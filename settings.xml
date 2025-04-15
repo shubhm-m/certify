@@ -2,6 +2,11 @@
   <servers>
    <server>
       <id>ossrh</id>
+	   <configuration>
+            <httpConfiguration>
+                <trustAllCertificates>true</trustAllCertificates>
+            </httpConfiguration>
+        </configuration>
     </server>
 
   </servers>
